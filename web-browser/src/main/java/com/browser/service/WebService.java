@@ -72,7 +72,6 @@ public class WebService {
 						throw exc;
 					}
 				}
-
 			});
 		} catch (IOException e) {
 			e.printStackTrace();
